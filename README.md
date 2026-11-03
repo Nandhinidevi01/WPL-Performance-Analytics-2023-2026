@@ -73,15 +73,3 @@ Overall team KPIs and comparisons, team batting and bowling comparison, bowling 
 
 ## Conclusion
 This project demonstrates data preparation, analytical modelling, DAX and Power BI visualisation through a multi-season WPL performance dashboard.
-
-## Suggested Repository Structure
-```text
-WPL-Performance-Analytics/
-├── data/
-├── notebooks/
-├── dashboard/
-├── screenshots/
-└── README.md
-```
-
-*Note: Include only datasets and files that you are permitted to redistribute. Add your own dashboard screenshots and notebook links before publishing the repository.*
